@@ -1,0 +1,2 @@
+In order to compile, the command "node elml.js index.elml" is used.
+The command "node elml.js --help" is used for help.
